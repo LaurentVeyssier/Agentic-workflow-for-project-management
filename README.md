@@ -1,6 +1,6 @@
 # Agentic Workflow Project
 
-Project python implementation of UDACITY's "agentic workflows", the second module of [Agentic AI nanodegree](https://www.udacity.com/course/agentic-ai--nd900).
+Python implementation of UDACITY's "agentic workflows" project, the second module of [Agentic AI nanodegree](https://www.udacity.com/course/agentic-ai--nd900).
 
 
 ## Project Overview
