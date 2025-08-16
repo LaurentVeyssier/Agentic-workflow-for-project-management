@@ -120,6 +120,12 @@ result = evaluation_agent.evaluate("Generate user stories for the product spec")
 print(result)
 ```
 
+## Sample Output
+
+![alt text](assets/screenshot1.png)
+![alt text](assets/screenshot2.png)
+![alt text](assets/screenshot3.png)
+
 ## File Structure
 - `agentic_workflow.py` — Main project entry point and workflow demonstration
 - `base_agents.py` — Definitions of all agent classes
