@@ -120,6 +120,12 @@ result = evaluation_agent.evaluate("Generate user stories for the product spec")
 print(result)
 ```
 
+NOTE:
+- I recommend using a more capable model for the EvaluationAgent. **Consider using gpt-4.1 for better results**. This can be changed in the base_agents.py class EvaluationAgent.
+- This might also be valuable strategy for the ActionPlanningAgent.
+- Worker agents can use gpt-4o-mini
+
+
 ## Sample Output
 
 ![alt text](assets/screenshot1.png)
